@@ -10,3 +10,9 @@ Im Frontend kann man dann nach dem Dateinamen oder irgend einem string aus der D
 -------
 
 Alternativ sollte man auch mit einem chatbot kommunizieren können, der einem zu seinem gewünschten Dokument hilft. Für den fall, dass man gar nicht erst weiß, nach welchem suchbegriff man suchen kann.
+
+-------
+Erster ideenfunke:
+
+Ich finde, dass man eher in richtung zentralisierter suchmaschine zu gehen, welche alle Datenbanken und Dokumentespeicher "crawlt" - schau mal wie schnell oder machbar das ist und ob du das als übung deiner Fähigkeiten machen kannst.
+
